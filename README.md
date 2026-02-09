@@ -29,22 +29,25 @@ The app demonstrates **multi-activity navigation**, **Intent-based data passing*
 
 ---
 
-## 🗂️ Project Structure
+## 📁 Project Structure
 
+```text
 app/
 ├── src/main/java/com/example/square/
-│ ├── MainActivity.java
-│ ├── SquareActivity.java
-│ ├── RectangleActivity.java
-│ ├── CircleActivity.java
-│ └── ResultActivity.java
+│   ├── MainActivity.java
+│   ├── SquareActivity.java
+│   ├── RectangleActivity.java
+│   ├── CircleActivity.java
+│   └── ResultActivity.java
 │
 └── src/main/res/layout/
-├── activity_main.xml
-├── android_square.xml
-├── android_rectangle.xml
-├── android_circle.xml
-└── android_result.xml
+    ├── activity_main.xml
+    ├── android_square.xml
+    ├── android_rectangle.xml
+    ├── android_circle.xml
+    └── android_result.xml
+```
+
 
 
 ---
